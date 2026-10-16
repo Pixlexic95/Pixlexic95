@@ -103,7 +103,7 @@ This is what I'm currently up to:
 | Playing | Hogwarts Legacy (PC) & Baldurs Gate 3 (PS5) | 🎮 |
 | Reading | The Inmate (Audio), Uncharmed & The Little Coffee Shop of Kabul | 📚 |
 | Creating | Clay pumpkins | 🎃 |-->
-| Last Updated: |  | 14/10/2026|
+Last Updated: 16/10/2026
 
 ## Fun Facts
 - ✈️ "Third Culture Kid": I grew up in 6 different countries! When I moved to the UK at 16, I adopted the accent but every so often have a bit of an international twang and tend to use americanisms. 
