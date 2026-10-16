@@ -99,10 +99,10 @@ This is what I'm currently up to:
 | | Writing Scientific Papers | 2 Accepted; 4 Under Review; 2 In-progress|
 | | Supervising Undergraduates| Oct-Dec |
 | Learning | C++ for/and games/hardware | YT tutorials/designing small projects |
-| Watching | Critical Role Campaign 4 | 🎲|
+<!--| Watching | Critical Role Campaign 4 | 🎲|
 | Playing | Hogwarts Legacy (PC) & Baldurs Gate 3 (PS5) | 🎮 |
 | Reading | The Inmate (Audio), Uncharmed & The Little Coffee Shop of Kabul | 📚 |
-| Creating | Clay pumpkins | 🎃 |
+| Creating | Clay pumpkins | 🎃 |-->
 | Last Updated: |  | 14/10/2026|
 
 ## Fun Facts
